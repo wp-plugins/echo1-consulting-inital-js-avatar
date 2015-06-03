@@ -41,13 +41,16 @@ Using hooks, you can manipulate the following:
 * Text color
 * Text used for the initial
 
-/**
- * Example use of filter
- * @param array - $img_attributes containing the above image attributes
- * @param mixed - \WP_User $user or null if user cannot be found
- * @param mixed - \stdObject $comment or null if not in a comment loop
- * @category hook
- */			
+// Example use of filter
+
+// @param array - $img_attributes containing the above image attributes
+
+// @param mixed - \WP_User $user or null if user cannot be found
+
+// @param mixed - \stdObject $comment or null if not in a comment loop
+
+// @category hook			
+
 add_filter( 'e1ijsa_image_attributes', function( $img_attributes, $user, $comment ) {
 
 	return $img_attributes;
