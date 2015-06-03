@@ -14,7 +14,9 @@ Simple jQuery plugin to make gmail like text avatars for profile pictures. These
 
 Simple jQuery plugin to make gmail like text avatars for profile pictures. These avatars can be scaled up to any size as they are SVG based.
 
-This is an integration of the initial.js jquery plugin (http://judelicio.us/initial.js/). This plugin contains hooks for extensibility.
+This is an integration of the initial.js jquery plugin (http://judelicio.us/initial.js/). This plugin contains hooks for extensibility, and modifications of avatars.
+
+The avatar will be the first initial of the username. Colors are set by default, but can be manipulated using built-in hooks. 
 
 == Installation ==
 
@@ -24,6 +26,33 @@ This is an integration of the initial.js jquery plugin (http://judelicio.us/init
 4. You can deactivate this plugin, or use another avatar type by visiting: Settings > Discussion > "Default Avatar"
 
 == Frequently Asked Questions ==
+
+= How do I modify the avatar using hooks? =
+
+Using hooks, you can manipulate the following:
+* Background color
+* Font size
+* Font Weight
+* Image alt text
+* Image class name
+* Image height
+* Image width
+* Number of characters to show in an avatar
+* Text color
+* Text used for the initial
+
+/**
+ * Example use of filter
+ * @param array - $img_attributes containing the above image attributes
+ * @param mixed - \WP_User $user or null if user cannot be found
+ * @param mixed - \stdObject $comment or null if not in a comment loop
+ * @category hook
+ */			
+add_filter( 'e1ijsa_image_attributes', function( $img_attributes, $user, $comment ) {
+
+	return $img_attributes;
+
+}, 10, 3 );
 
 == Screenshots ==
 
