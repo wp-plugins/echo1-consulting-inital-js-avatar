@@ -23,7 +23,7 @@ This is an integration of the initial.js jquery plugin (http://judelicio.us/init
 3. That's it!
 4. You can deactivate this plugin, or use another avatar type by visitin: Settings > Discussion > "Default Avatar"
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 == Screenshots ==
 
