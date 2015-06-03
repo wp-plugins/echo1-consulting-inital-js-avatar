@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Echo1 Consulting - Inital JS Avatar
-Plugin URI: http://www.echo1consulting.com/
+Plugin URI: https://wordpress.org/plugins/echo1-consulting-inital-js-avatar/
 Description: Simple jQuery plugin to make gmail-like text avatars for profile pictures. These avatars can be scaled up to any size as they are SVG based.
 Author: Echo1 Consulting
 Version: 1.0
