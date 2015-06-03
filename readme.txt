@@ -27,35 +27,8 @@ The avatar will be the first initial of the username. Colors are set by default,
 
 == Frequently Asked Questions ==
 
-= How do I modify the avatar using hooks? =
+Coming Soon.
 
-Using hooks, you can manipulate the following:
-* Background color
-* Font size
-* Font Weight
-* Image alt text
-* Image class name
-* Image height
-* Image width
-* Number of characters to show in an avatar
-* Text color
-* Text used for the initial
-
-// Example use of filter
-
-// @param array - $img_attributes containing the above image attributes
-
-// @param mixed - \WP_User $user or null if user cannot be found
-
-// @param mixed - \stdObject $comment or null if not in a comment loop
-
-// @category hook			
-
-add_filter( 'e1ijsa_image_attributes', function( $img_attributes, $user, $comment ) {
-
-	return $img_attributes;
-
-}, 10, 3 );
 
 == Screenshots ==
 
