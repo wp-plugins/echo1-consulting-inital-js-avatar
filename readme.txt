@@ -27,6 +27,14 @@ This is an integration of the initial.js jquery plugin (http://judelicio.us/init
 
 == Screenshots ==
 
+1. This screenshot shows the first initial of the username being used as the avatar.
+
+2. This screenshot shows a list of users with the first initial of their username being used as the avatar.
+
+3. This screenshot shows "Initial JS" as a selection in the "Default Avatar" section.
+
+4. This screenshot shows the first initial of the username as the avatar in a comment thread.
+
 == Changelog ==
 
 = 1.0 =
