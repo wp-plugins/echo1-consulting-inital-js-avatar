@@ -1,10 +1,10 @@
 === Echo1 Consulting - Inital JS Avatar ===
 Contributors: echo1consulting
 Donate link: http://echo1consulting.com/
-Tags: avatar, initialjs
+Tags: avatar, avatars, change avatar, comment change avatar, comments, custom avatar, custom wordpress avatar, discussion, first letter avatar, initial avatar, wordpress new avatar, initialjs
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 4.3
+Tested up to: 4.2.2
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,8 +20,8 @@ This is an integration of the initial.js jquery plugin (http://judelicio.us/init
 
 1. Upload `echo1-consulting-initial-js-avatar.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. That's it!
-4. You can deactivate this plugin, or use another avatar type by visitin: Settings > Discussion > "Default Avatar"
+3. That's it! Initial JS Avatar is automatically selected as your default avatar.
+4. You can deactivate this plugin, or use another avatar type by visiting: Settings > Discussion > "Default Avatar"
 
 == Frequently Asked Questions ==
 
