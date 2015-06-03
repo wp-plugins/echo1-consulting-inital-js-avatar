@@ -35,8 +35,27 @@ Manual Installation:
 
 == Frequently Asked Questions ==
 
-Coming Soon.
+= What settings can I change? =
+There are built in hooks / filters which allow you to modify the appearance of avatars. These attributes include:
+* Background color
+* Font size
+* Font Weight
+* Image alt text
+* Image class name
+* Image height
+* Image width
+* Number of characters to show in an avatar
+* Text color
+* Text used for the initial
 
+= What browsers are the SVG avatars compatible with? =
+* Chrome
+* Firefox
+* IE 9+
+* Opera 9+
+* Safari 3.2+
+* iOS Safari 3.2+
+* Android Browser 3+
 
 == Screenshots ==
 
