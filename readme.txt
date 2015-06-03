@@ -28,7 +28,7 @@ From WordPress Dashboard:
 4. That's it! Initial JS Avatar is automatically selected as your default avatar.
 
 Manual Installation:
-
+ 
 1. Upload `echo1-consulting-initial-js-avatar.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. That's it! Initial JS Avatar is automatically selected as your default avatar.
