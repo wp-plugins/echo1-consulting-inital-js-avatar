@@ -20,10 +20,18 @@ The avatar will be the first initial of the username. Colors are set by default,
 
 == Installation ==
 
+From WordPress Dashboard:
+
+1. Go to 'Plugins > Add New'.
+2. Search for 'Initial JS'.
+3. Click "Install Now" for the plugin named 'Echo1 Consulting - Inital JS Avatar'.
+4. That's it! Initial JS Avatar is automatically selected as your default avatar.
+
+Manual Installation:
+
 1. Upload `echo1-consulting-initial-js-avatar.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. That's it! Initial JS Avatar is automatically selected as your default avatar.
-4. You can deactivate this plugin, or use another avatar type by visiting: Settings > Discussion > "Default Avatar"
 
 == Frequently Asked Questions ==
 
