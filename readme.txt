@@ -47,6 +47,9 @@ There are built in hooks / filters which allow you to modify the appearance of a
 * iOS Safari 3.2+
 * Android Browser 3+
 
+= Is this plugin multisite compatible? =
+Yes, you can activate this plugin at the site, or network-level. Site administrators can enable or disable use of the initial avatar under "Settings" > "Discussion" > "Default Avatar".
+
 == Screenshots ==
 
 1. This screenshot shows the first initial of the username being used as the avatar.
